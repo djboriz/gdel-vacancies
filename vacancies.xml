@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vacancies>
+  <vacancy>
+    <id>1</id>
+    <title>Работа в такси</title>
+    <description>Работа водителем в такси. Без арендной платы — вы получаете 60% от выручки. Свободный график. Автомобили 2023–2024 годов, все классы: от Эконома до Бизнеса. Ремонт, ТО, резина — за счёт таксопарка. Оборудование (телефон, интернет, кресла) предоставляется бесплатно. Машина выдается в день обращения. Доход от 200 000 ₽/мес. или 5 000–10 000 ₽ за смену.</description>
+    <link>https://gdel.ru/vacancy/rabota-v-taksi</link>
+    <company>Таксопарк GDEL</company>
+    <region>Санкт-Петербург</region>
+    <city>Санкт-Петербург</city>
+    <address>Санкт-Петербург, Заневский пр. 65</address>
+    <contact_phone>+7 (900) 637-00-32</contact_phone>
+    <employment>Полная занятость</employment>
+    <schedule>Свободный график</schedule>
+    <salary>
+      <min>200000</min>
+      <currency>RUR</currency>
+    </salary>
+    <date>2025-06-11</date>
+  </vacancy>
+
+  <vacancy>
+    <id>2</id>
+    <title>Работа в Яндекс.Такси</title>
+    <description>Работа водителем Яндекс.Такси в Санкт-Петербурге. Без арендной платы — 60% выручки забирает водитель. Автомобили с лицензией, страховкой и брендированием. Все авто 2023–2024 года выпуска. Свободный график, выдача автомобиля в день обращения. Доход от 200 000 ₽ в месяц или 5 000–10 000 ₽ за смену. Работа возможна только для самозанятых или ИП.</description>
+    <link>https://gdel.ru/vacancy/rabota-v-yandex-taksi</link>
+    <company>Таксопарк GDEL</company>
+    <region>Санкт-Петербург</region>
+    <city>Санкт-Петербург</city>
+    <address>Санкт-Петербург, Заневский пр. 65</address>
+    <contact_phone>+7 (900) 637-00-32</contact_phone>
+    <employment>Полная занятость</employment>
+    <schedule>Гибкий график</schedule>
+    <salary>
+      <min>200000</min>
+      <currency>RUR</currency>
+    </salary>
+    <date>2025-06-11</date>
+  </vacancy>
+
+  <vacancy>
+    <id>3</id>
+    <title>Работа вахтой в такси</title>
+    <description>Работа водителем Яндекс.Такси вахтовым методом. Предоставляется бесплатное жильё, проезд в обе стороны, смартфон, мобильная связь и интернет. Обучение и поддержка. Доход от 200 000 ₽ за вахту. Минимальный срок — 30 рабочих смен (32 дня с учётом приезда/отъезда). Комфортные квартиры со всеми удобствами. Прямой работодатель.</description>
+    <link>https://gdel.ru/vacancy/vakhta-v-taksi</link>
+    <company>Таксопарк GDEL</company>
+    <region>Санкт-Петербург</region>
+    <city>Санкт-Петербург</city>
+    <address>Санкт-Петербург, Заневский пр. 65</address>
+    <contact_phone>+7 (900) 637-00-32</contact_phone>
+    <employment>Вахта</employment>
+    <schedule>Сменный график</schedule>
+    <salary>
+      <min>200000</min>
+      <currency>RUR</currency>
+    </salary>
+    <date>2025-06-11</date>
+  </vacancy>
+</vacancies>
