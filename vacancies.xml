@@ -16,6 +16,7 @@
       <min>200000</min>
       <currency>RUR</currency>
     </salary>
+    <image>https://static.tildacdn.com/tild6237-3139-4135-a362-383933343939/133_1.jpg</image>
     <date>2025-06-11</date>
   </vacancy>
 
@@ -35,6 +36,7 @@
       <min>200000</min>
       <currency>RUR</currency>
     </salary>
+    <image>https://static.tildacdn.com/tild6262-6535-4063-b430-613464646264/5.jpeg</image>
     <date>2025-06-11</date>
   </vacancy>
 
@@ -54,6 +56,8 @@
       <min>200000</min>
       <currency>RUR</currency>
     </salary>
+    <image>https://static.tildacdn.com/tild6237-3139-4135-a362-383933343939/133_1.jpg</image>
     <date>2025-06-11</date>
   </vacancy>
 </vacancies>
+
